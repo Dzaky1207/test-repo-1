@@ -1,7 +1,6 @@
 Ini contoh pembuatan file di branch mainmaster
 Ini baris ke-2 dibuatnya di branch main
-Ini baris ke-3 dibuat pada branch main
-Menambahkan baris ke-4 setelah pembuatan file (commit-1)
-Menambahkan baris ke-4 setelah pembuatan file (commit-2)
-Menambahkan baris ke-6 setelah pembuatan file (commit-2)
-Menambahkan baris ke-7 setelah pembuatan file (commit-2)
+Menambahkan baris ke 4 setelah pembuatan file (commit-1)
+Menambahkan baris ke 5 setelah pembuatan file (commit-2)
+Menambahkan baris ke 6 setelah pembuatan file (commit-2)
+Menambahkan baris ke 7 setelah pembuatan file (commit-2)
